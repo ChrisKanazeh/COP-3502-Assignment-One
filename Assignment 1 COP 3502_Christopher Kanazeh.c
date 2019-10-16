@@ -1,6 +1,5 @@
 /* Christopher Kanazeh
-Assignment 1
-CS1 2/8/2015 */
+Assignment 1 */
 
 //libraries for the program
 #include <stdio.h>
