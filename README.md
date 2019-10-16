@@ -5,7 +5,7 @@ Create a linked list node to include char name[50]; int id; struct node *next;
 
 main()
 
-- Call the function to read in the data file as a linked list - Provide the user a menu of the following options: 1. Insert 2. Display 3. Delete by ID 4. Delete by Name 5. Exit - Use a conditional statement to evaluate the user’s selection -- if option 1, call function to insert a new student -- if option 2, call function to display the linked list -- if option 3, call function to delete by id number -- if option 4, call function to delete by student name -- if option 5, exit the program
+Call the function to read in the data file as a linked list - Provide the user a menu of the following options: 1. Insert 2. Display 3. Delete by ID 4. Delete by Name 5. Exit - Use a conditional statement to evaluate the user’s selection -- if option 1, call function to insert a new student -- if option 2, call function to display the linked list -- if option 3, call function to delete by id number -- if option 4, call function to delete by student name -- if option 5, exit the program
 
 Function to read the data file as nodes in a linked list: Read in the contents of data file "AssignmentOneInput.txt" into the node data structure
 
